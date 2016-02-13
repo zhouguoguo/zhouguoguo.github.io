@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-13T03:07:30.590Z</updated>
+  <updated>2016-02-13T04:59:18.234Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,20 +15,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[测试帖-来自windows]]></title>
+    <title><![CDATA[Hello, little monkey]]></title>
     <link href="http://yoursite.com/2016/02/13/test-on-windows/"/>
     <id>http://yoursite.com/2016/02/13/test-on-windows/</id>
-    <published>2016-02-13T03:07:30.590Z</published>
-    <updated>2016-02-13T03:07:30.590Z</updated>
-    <content type="html"><![CDATA[<p>这是蓝小古偶第一次在github上写博客。希望大家来捧场。<br>2016年2月7日，羊年的最后一天，猴宝宝专属年就要到了~</p>
-<p><img src="http://7xqvqp.com1.z0.glb.clouddn.com/IMGP5559.JPG" alt="2016-02" title="Memorable Days"></p>
-<h2 id="u6750_u6599_u51C6_u5907"><a href="#u6750_u6599_u51C6_u5907" class="headerlink" title="材料准备"></a>材料准备</h2><p>今天做的是酸奶戚风蛋糕。<br>材料：</p>
-<p><em>Italic Text</em> <strong>Strong Text</strong></p>
-<h3 id="u52A8_u624B_u5F00_u505A"><a href="#u52A8_u624B_u5F00_u505A" class="headerlink" title="动手开做"></a>动手开做</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<h1 id="Test_Title"><a href="#Test_Title" class="headerlink" title="Test Title"></a>Test Title</h1><h2 id="Test_Title2"><a href="#Test_Title2" class="headerlink" title="Test Title2"></a>Test Title2</h2><h3 id="Test_Title3"><a href="#Test_Title3" class="headerlink" title="Test Title3"></a>Test Title3</h3><h4 id="Test_Title4"><a href="#Test_Title4" class="headerlink" title="Test Title4"></a>Test Title4</h4>]]></content>
+    <published>2016-02-13T04:59:18.234Z</published>
+    <updated>2016-02-13T04:59:18.234Z</updated>
+    <content type="html"><![CDATA[<p>2016年2月7日，羊年的最后一天，猴宝宝专属年就要到了~</p>
+<p><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-1.JPG" alt="" title="宝妈"></p>
+<h2 id="u6750_u6599_u51C6_u5907"><a href="#u6750_u6599_u51C6_u5907" class="headerlink" title="材料准备"></a>材料准备</h2><p>今天做的是<strong>红枣酸奶戚风蛋糕</strong>。<br>材料：<br>鸡蛋      4个<br>原味酸奶  100g<br>低筋面粉  80g<br>细砂糖    50g<br>食用油    30g<br>玉米淀粉  5g<br>红枣碎    20g左右<br>柠檬汁    几滴</p>
+<p><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-5574.JPG" alt="" title="材料集合"></p>
+<h2 id="u52A8_u624B_u5F00_u505A"><a href="#u52A8_u624B_u5F00_u505A" class="headerlink" title="动手开做"></a>动手开做</h2><ol>
+<li><p>鸡蛋的蛋黄和蛋白分开在两个大盆里，蛋黄盆里加入食用油，酸奶，拌匀<br><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-5575.JPG" alt="" title="蛋黄+油+酸奶"></p>
+</li>
+<li><p>筛入低筋面粉，用刮刀搅拌至无颗粒<br><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-5579.JPG" alt="" title="+低粉"><br><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-5593.JPG" alt="" title="蛋黄糊完成"></p>
+</li>
+<li><p>蛋白里滴入几滴柠檬汁，加入玉米淀粉<br><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-5584.JPG" alt="" title="蛋白+柠檬汁+淀粉"></p>
+</li>
+<li><p>打发蛋白，分三次加入细砂糖，打发蛋白至硬性发泡<br><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-5592.JPG" alt="" title="硬性发泡"></p>
+</li>
+<li><p>取一半蛋白霜加入蛋黄糊中，翻拌均匀，混合之后，再倒回剩下的蛋白霜里，翻拌均匀<br><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-5595.JPG" alt="" title="一半蛋白霜+蛋黄糊"><br><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-5598.JPG" alt="" title="倒回蛋白霜里"></p>
+</li>
+<li><p>翻拌均匀后加入红枣碎，翻拌均匀<br><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-5600.JPG" alt="" title="+红枣碎"></p>
+</li>
+<li><p>准备八寸活底蛋糕模具，将蛋糕糊倒入<br><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-5608.JPG" alt="" title="入模具"></p>
+</li>
+<li><p>用刮刀把表面抹平<br><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-5610.JPG" alt="" title="抹平"></p>
+</li>
+<li><p>入烤箱中层125°，60-70分钟,完成<br><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-5611.JPG" alt="" title="完成"></p>
+</li>
+</ol>
+<h2 id="u6210_u54C1"><a href="#u6210_u54C1" class="headerlink" title="成品"></a>成品</h2><p>时间烤长收腰了T_T<br><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-5619.JPG" alt="" title="完成"><br><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-5624.JPG" alt="" title="完成"></p>
+]]></content>
     <summary type="html">
-    <![CDATA[<p>这是蓝小古偶第一次在github上写博客。希望大家来捧场。<br>2016年2月7日，羊年的最后一天，猴宝宝专属年就要到了~</p>
-<p><img src="http://7xqvqp.com1.z0.glb.clouddn.com/IMGP5559.JPG" alt="]]>
+    <![CDATA[<p>2016年2月7日，羊年的最后一天，猴宝宝专属年就要到了~</p>
+<p><img src="http://7xqvqp.com1.z0.glb.clouddn.com/160213-1.JPG" alt="" title="宝妈"></p>
+<h2 id="u6750_u]]>
     </summary>
     
       <category term="bake" scheme="http://yoursite.com/tags/bake/"/>
