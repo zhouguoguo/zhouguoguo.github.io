@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-07T06:35:27.811Z</updated>
+  <updated>2016-02-13T03:07:30.590Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,18 +16,26 @@
   
   <entry>
     <title><![CDATA[测试帖-来自windows]]></title>
-    <link href="http://yoursite.com/2016/02/07/test-on-windows/"/>
-    <id>http://yoursite.com/2016/02/07/test-on-windows/</id>
-    <published>2016-02-07T06:35:27.811Z</published>
-    <updated>2016-02-07T06:35:27.811Z</updated>
-    <content type="html"><![CDATA[<p>这是蓝小古偶第一次在github上写博客。希望大家来捧场。</p>
-<h2 id="u6750_u6599_u51C6_u5907"><a href="#u6750_u6599_u51C6_u5907" class="headerlink" title="材料准备"></a>材料准备</h2><p><em>Italic Text</em> <strong>Strong Text</strong></p>
+    <link href="http://yoursite.com/2016/02/13/test-on-windows/"/>
+    <id>http://yoursite.com/2016/02/13/test-on-windows/</id>
+    <published>2016-02-13T03:07:30.590Z</published>
+    <updated>2016-02-13T03:07:30.590Z</updated>
+    <content type="html"><![CDATA[<p>这是蓝小古偶第一次在github上写博客。希望大家来捧场。<br>2016年2月7日，羊年的最后一天，猴宝宝专属年就要到了~</p>
+<p><img src="http://7xqvqp.com1.z0.glb.clouddn.com/IMGP5559.JPG" alt="2016-02" title="Memorable Days"></p>
+<h2 id="u6750_u6599_u51C6_u5907"><a href="#u6750_u6599_u51C6_u5907" class="headerlink" title="材料准备"></a>材料准备</h2><p>今天做的是酸奶戚风蛋糕。<br>材料：</p>
+<p><em>Italic Text</em> <strong>Strong Text</strong></p>
 <h3 id="u52A8_u624B_u5F00_u505A"><a href="#u52A8_u624B_u5F00_u505A" class="headerlink" title="动手开做"></a>动手开做</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 <h1 id="Test_Title"><a href="#Test_Title" class="headerlink" title="Test Title"></a>Test Title</h1><h2 id="Test_Title2"><a href="#Test_Title2" class="headerlink" title="Test Title2"></a>Test Title2</h2><h3 id="Test_Title3"><a href="#Test_Title3" class="headerlink" title="Test Title3"></a>Test Title3</h3><h4 id="Test_Title4"><a href="#Test_Title4" class="headerlink" title="Test Title4"></a>Test Title4</h4>]]></content>
     <summary type="html">
-    <![CDATA[<p>这是蓝小古偶第一次在github上写博客。希望大家来捧场。</p>
-<h2 id="u6750_u6599_u51C6_u5907"><a href="#u6750_u6599_u51C6_u5907" class="headerlink" title="材料准备"></a]]>
+    <![CDATA[<p>这是蓝小古偶第一次在github上写博客。希望大家来捧场。<br>2016年2月7日，羊年的最后一天，猴宝宝专属年就要到了~</p>
+<p><img src="http://7xqvqp.com1.z0.glb.clouddn.com/IMGP5559.JPG" alt="]]>
     </summary>
+    
+      <category term="bake" scheme="http://yoursite.com/tags/bake/"/>
+    
+      <category term="cake" scheme="http://yoursite.com/tags/cake/"/>
+    
+      <category term="food" scheme="http://yoursite.com/categories/food/"/>
     
   </entry>
   
